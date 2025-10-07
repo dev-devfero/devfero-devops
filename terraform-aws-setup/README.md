@@ -44,4 +44,7 @@ terraform apply tfplan
 **Note:** Always review IAM and networking configurations before production deployment.
 
 By the way,
-> **_NOTE:_** We encourage the use of modules and tools like Terragrunt to keep the code clean and you don't have to repeat yourself when creating more resources on the cloud. This is only a test and demo implemetation of some resources on AWS following a best practice for a remote backend, we also work with Azure, GCP, and other cloud providers. Please feel free to reach out to us: [Devfero Info](mailto:info@devfero.cm?subject=[Reaching out to Devfero] Source Han Sans) or [Devfero Dev](mailto:dev@devfero.com?subject=[Reaching out to Devfero] Source Han Sans)
+> **_NOTE:_** We encourage the use of modules and tools like Terragrunt to keep the code clean and you don't have to repeat yourself when creating more resources on the cloud. This is only a test and demo implemetation of some resources on AWS following a best practice for a remote backend, we also work with Azure, GCP, and other cloud providers. Please feel free to reach out to us: 
+
+- [Devfero Info](mailto:info@devfero.cm?subject=Reaching%20out%20to%20Devfero)  
+- [Devfero Dev](mailto:dev@devfero.com?subject=Reaching%20out%20to%20Devfero)
