@@ -52,7 +52,7 @@ D --> E[Container Deployment]
 E --> F[Monitoring and Alerts - Prometheus + Grafana]
 ```
 
-🚀 Purpose
+## 🚀 Purpose
 
 The goal of this repository is to:
 
@@ -63,7 +63,7 @@ Serve as a reference base for potential client projects.
 Reflect a professional and scalable DevOps mindset applicable to businesses of any size.
 
 
-💼 About Devfero
+## 💼 About Devfero
 
 We are a team of DevOps enthusiasts, building a business focused on delivering automation-driven solutions that improve deployment efficiency, reliability, and scalability for clients.
 
@@ -74,7 +74,7 @@ Each project here is part of our mission to bridge business understanding with t
 These implementations are not exhaustive and do not represent all the tools we work with*. We work on a wide range of tooling and provide solutions to our clients. 
 
 
-📫 Contact
+## 📫 Contact
 
 If you’d like to collaborate or discuss a potential project, feel free to reach out:
 
