@@ -25,6 +25,7 @@ All examples are:
 | 🐳 Containerization | [Dockerized Flask App](./dockerized-flask-app) | A simple Flask web app running in Docker with PostgreSQL | Docker, Docker Compose, Flask, PostgreSQL |
 | 🔄 CI/CD Automation | [CI/CD Pipeline Demo](./ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
 | ☁️ Infrastructure as Code | [Terraform AWS Setup](./terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
+| ☸ Kubernetes and EKS | [Kubernetes and EKS Terraform Setup](./kubernetes-eks) | Example AWS EKS and Kubernetes manifests | Terraform, AWS, Kubernetes, YAML |
 | 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./prometheus-grafana-monitoring-demo) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker |
 | ⚡ Serverless Architecture | [Serverless API Example](./serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
 
