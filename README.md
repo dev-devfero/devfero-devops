@@ -79,4 +79,5 @@ These implementations are not exhaustive and do not represent all the tools we w
 If you’d like to collaborate or discuss a potential project, feel free to reach out:
 
 Email: [info@devfero.com, dev@devfero.com]
-GitHub: github.com/dev-devfero
+
+GitHub: https://github.com/dev-devfero
