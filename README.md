@@ -1,6 +1,6 @@
 # 🧭 DevOps Implementations Portfolio
 
-Welcome to my DevOps Portfolio — a collection of practical, production-style implementations that demonstrate my experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring.
+Welcome to our DevOps Portfolio — a collection of practical implementations that demonstrate some of our experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring.
 
 These repositories showcase real-world setups and anonymized client-like scenarios that reflect how modern DevOps practices can streamline development and deployment pipelines.
 
@@ -8,7 +8,7 @@ These repositories showcase real-world setups and anonymized client-like scenari
 
 ## 🏗️ About This Repository
 
-This repository serves as a **central hub** for all my DevOps demonstration projects.  
+This repository serves as a **central hub** for all our DevOps demonstration projects.  
 Each folder or linked repository represents a different aspect of the DevOps lifecycle — from infrastructure provisioning and containerization to monitoring and automation.
 
 All examples are:
@@ -22,13 +22,11 @@ All examples are:
 
 | Category | Project | Description | Tools & Technologies |
 |-----------|----------|--------------|----------------------|
-| 🐳 Containerization | [Dockerized Flask App](../dockerized-flask-app) | A simple Flask web app running in Docker with PostgreSQL | Docker, Docker Compose, Flask, PostgreSQL |
-| 🔄 CI/CD Automation | [CI/CD Pipeline Demo](../ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
-| ☁️ Infrastructure as Code | [Terraform AWS Setup](../terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
-| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](../prometheus-grafana-monitoring-demo) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker |
-| ⚡ Serverless Architecture | [Serverless API Example](../serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
-
-*(The above links can be updated once individual repos are live.)*
+| 🐳 Containerization | [Dockerized Flask App](./dockerized-flask-app) | A simple Flask web app running in Docker with PostgreSQL | Docker, Docker Compose, Flask, PostgreSQL |
+| 🔄 CI/CD Automation | [CI/CD Pipeline Demo](./ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
+| ☁️ Infrastructure as Code | [Terraform AWS Setup](./terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
+| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./prometheus-grafana-monitoring-demo) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker |
+| ⚡ Serverless Architecture | [Serverless API Example](./serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
 
 ---
 
@@ -39,18 +37,22 @@ All examples are:
 - **Infrastructure as Code (IaC)** – Scalable cloud deployments managed through Terraform and AWS.  
 - **Monitoring & Logging** – Implemented Prometheus, Grafana, and ELK Stack configurations.  
 - **Serverless Solutions** – Deployed lightweight, cost-effective architectures on AWS.  
+- **We will keep updating this repositories as we find time**
 
 ---
+
+## 🧩 Example Architecture Diagram
 
 ## 🧩 Example Architecture Diagram
 
 ```mermaid
 graph TD
 A[Developer Commit] --> B[GitHub Actions Pipeline]
-B --> C[Docker Build & Test]
+B --> C[Docker Build and Test]
 C --> D[AWS Infrastructure via Terraform]
 D --> E[Container Deployment]
-E --> F[Monitoring & Alerts (Prometheus/Grafana)]
+E --> F[Monitoring and Alerts (Prometheus + Grafana)]
+```
 
 
 🚀 Purpose
