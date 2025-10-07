@@ -41,15 +41,15 @@ All examples are:
 
 ---
 
-## 🧩 Example Architecture Diagram
+## 🧩 Example Flow 
 
 ```mermaid
 graph TD
 A[Developer Commit] --> B[GitHub Actions Pipeline]
 B --> C[Docker Build and Test]
 C --> D[AWS Infrastructure via Terraform]
-D --> E[Container Deployment]
-E --> F[Monitoring and Alerts - Prometheus + Grafana]
+D --> E[Service Deployment]
+E --> F[Monitoring and Alerts - Prometheus + Grafana or any other tooling]
 ```
 
 ## 🚀 Purpose
