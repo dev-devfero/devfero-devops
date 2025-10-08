@@ -6,7 +6,7 @@ These repositories showcase real-world setups and anonymized client-like scenari
 
 ---
 
-## 🏗️ About This Repository
+## About This Repository
 
 This repository serves as a central hub for all our DevOps demonstration projects.  
 Each folder or linked repository represents a different aspect of the DevOps lifecycle — from infrastructure provisioning and containerization to monitoring and automation.
@@ -23,16 +23,16 @@ All examples are:
 
 | Category | Project | Description | Tools & Technologies |
 |-----------|----------|--------------|----------------------|
-| 🐳 Containerization | [Dockerized Flask App](./dockerized-flask-app) | A simple Flask web app running in Docker with PostgreSQL | Docker, Docker Compose, Flask, PostgreSQL |
-| 🔄 CI/CD Automation | [CI/CD Pipeline Demo](./ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
-| ☁️ Infrastructure as Code | [Terraform AWS Setup](./terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
-| ☸ Kubernetes and EKS | [Kubernetes and EKS Terraform Setup](./kubernetes-eks) | Example AWS EKS and Kubernetes manifests | Terraform, AWS, Kubernetes, YAML |
-| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./grafana-prometheus-monitoring) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker, AWS, Terraform, Kubernetes, EKS and IRSA|
-| ⚡ Serverless Architecture | [Serverless API Example](./serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
+| Containerization | [Dockerized Flask App](./dockerized-flask-app) | A simple Flask web app running in Docker with PostgreSQL | Docker, Docker Compose, Flask, PostgreSQL |
+| CI/CD Automation | [CI/CD Pipeline Demo](./ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
+| Infrastructure as Code | [Terraform AWS Setup](./terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
+| Kubernetes and EKS | [Kubernetes and EKS Terraform Setup](./kubernetes-eks) | Example AWS EKS and Kubernetes manifests | Terraform, AWS, Kubernetes, YAML |
+| Monitoring & Observability | [Prometheus + Grafana Demo](./grafana-prometheus-monitoring) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker, AWS, Terraform, Kubernetes, EKS and IRSA|
+| Serverless Architecture | [Serverless API Example](./serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
 
 ---
 
-## 🧰 Core Skills Demonstrated
+## Core Skills Demonstrated
 
 - **CI/CD Pipeline Automation** – Streamlined build, test, and deploy workflows using GitHub Actions and Jenkins.  
 - **Containerization** – Efficient environment setup using Docker and Kubernetes.  
@@ -43,7 +43,7 @@ All examples are:
 
 ---
 
-## 🧩 Example Flow 
+## Example Flow 
 
 ```mermaid
 graph TD
@@ -54,7 +54,7 @@ D --> E[Service Deployment]
 E --> F[Monitoring and Alerts - Prometheus + Grafana or any other tooling]
 ```
 
-## 🚀 Purpose
+## Purpose
 
 The goal of this repository is to:
 
@@ -65,7 +65,7 @@ Serve as a reference base for potential client projects.
 Reflect a professional and scalable DevOps mindset applicable to businesses of any size.
 
 
-## 💼 About Devfero
+## About Devfero
 
 We are a team of development and DevOps enthusiasts, building a business focused on delivering automation-driven solutions that improve deployment efficiency, reliability, and scalability for clients.
 
@@ -76,7 +76,7 @@ Each project here is part of our mission to bridge business understanding with t
 These implementations are not exhaustive and do not represent all the tools we work with*. We work on a wide range of tooling and provide solutions to our clients. 
 
 
-## Tools we work with (not an exhaustive list) 🚀
+## Tools we work with (not an exhaustive list) 
 ### Cloud Providers
 - AWS
 - GCP
@@ -128,7 +128,7 @@ These implementations are not exhaustive and do not represent all the tools we w
 - Jenkins
 - ... and more.
 
-## 📫 Contact
+## Contact
 
 If you’d like to collaborate or discuss a potential project, feel free to reach out:
 
