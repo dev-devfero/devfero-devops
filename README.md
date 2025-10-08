@@ -27,7 +27,7 @@ All examples are:
 | 🔄 CI/CD Automation | [CI/CD Pipeline Demo](./ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
 | ☁️ Infrastructure as Code | [Terraform AWS Setup](./terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
 | ☸ Kubernetes and EKS | [Kubernetes and EKS Terraform Setup](./kubernetes-eks) | Example AWS EKS and Kubernetes manifests | Terraform, AWS, Kubernetes, YAML |
-| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./prometheus-grafana-monitoring) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker |
+| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./grafana-prometheus-monitoring) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker, AWS, Terraform, Kubernetes, EKS and IRSA|
 | ⚡ Serverless Architecture | [Serverless API Example](./serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
 
 ---
