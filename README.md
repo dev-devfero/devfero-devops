@@ -1,4 +1,4 @@
-# 🧭 DevOps Reference Implementations
+# DevOps Reference Implementations
 
 Welcome to our DevOps Implementations Examples — a collection of practical implementations that demonstrate some of our experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring. There are so many ways you can implement a solution, these are just some basic ways to reference, for more advanced implementations and for any services within the realm of DevOps and Site Reliability Engineering please reach out to us.
 
@@ -19,7 +19,7 @@ All examples are:
 
 ---
 
-## ⚙️ Implementations Overview
+## Implementations Overview
 
 | Category | Project | Description | Tools & Technologies |
 |-----------|----------|--------------|----------------------|
