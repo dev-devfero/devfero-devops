@@ -1,6 +1,6 @@
-# 🧭 DevOps Implementations Portfolio
+# 🧭 DevOps Reference Implementations
 
-Welcome to our DevOps Portfolio — a collection of practical implementations that demonstrate some of our experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring.
+Welcome to our DevOps Implementations Examples — a collection of practical implementations that demonstrate some of our experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring. There are so many ways you can implement a solution, these are just some basic ways to reference, for more advanced implementations and for any services within the realm of DevOps and Site Reliability Engineering please reach out to us.
 
 These repositories showcase real-world setups and anonymized client-like scenarios that reflect how modern DevOps practices can streamline development and deployment pipelines.
 
@@ -8,7 +8,7 @@ These repositories showcase real-world setups and anonymized client-like scenari
 
 ## 🏗️ About This Repository
 
-This repository serves as a **central hub** for all our DevOps demonstration projects.  
+This repository serves as a central hub for all our DevOps demonstration projects.  
 Each folder or linked repository represents a different aspect of the DevOps lifecycle — from infrastructure provisioning and containerization to monitoring and automation.
 
 All examples are:
