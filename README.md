@@ -1,6 +1,6 @@
 # DevOps Reference Implementations
 
-Welcome to our DevOps Implementations Examples — a collection of practical implementations that demonstrate some of our experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring. There are so many ways you can implement a solution, these are just some basic ways to reference, for more advanced implementations and for any services within the realm of DevOps and Site Reliability Engineering please reach out to us.
+Welcome to our DevOps Implementations Examples; a collection of practical implementations that demonstrate some of our experience in cloud infrastructure, automation, CI/CD, containerization, and system monitoring. There are so many ways you can implement a solution, these are just some basic ways to reference, for more advanced implementations and for any services within the realm of DevOps and Site Reliability Engineering please reach out to us.
 
 These repositories showcase real-world setups and anonymized client-like scenarios that reflect how modern DevOps practices can streamline development and deployment pipelines.
 
@@ -58,7 +58,7 @@ E --> F[Monitoring and Alerts - Prometheus + Grafana or any other tooling]
 
 The goal of this repository is to:
 
-Showcase the range of DevOps capabilities — from automation to observability.
+Showcase the range of DevOps capabilities; from automation to observability.
 
 Serve as a reference base for potential client projects.
 
