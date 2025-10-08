@@ -12,8 +12,9 @@ This repository serves as a **central hub** for all our DevOps demonstration pro
 Each folder or linked repository represents a different aspect of the DevOps lifecycle — from infrastructure provisioning and containerization to monitoring and automation.
 
 All examples are:
-- Based on **real client requirements** (with sensitive details anonymized)
+- Based on **some client requirements and example projects people have asked before** (all obfuscated)
 - Built using **industry-standard tools and workflows**
+- For reference only, they might not be configured and deployed as they are in this repository.
 - Documented clearly to help anyone understand or replicate them
 
 ---
@@ -26,7 +27,7 @@ All examples are:
 | 🔄 CI/CD Automation | [CI/CD Pipeline Demo](./ci-cd-demo-github-actions) | End-to-end automated build and deploy pipeline | GitHub Actions, Docker |
 | ☁️ Infrastructure as Code | [Terraform AWS Setup](./terraform-aws-setup) | Infrastructure provisioning using Terraform | Terraform, AWS |
 | ☸ Kubernetes and EKS | [Kubernetes and EKS Terraform Setup](./kubernetes-eks) | Example AWS EKS and Kubernetes manifests | Terraform, AWS, Kubernetes, YAML |
-| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./prometheus-grafana-monitoring-demo) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker |
+| 📊 Monitoring & Observability | [Prometheus + Grafana Demo](./prometheus-grafana-monitoring) | Container metrics collection and dashboard visualization | Prometheus, Grafana, Docker |
 | ⚡ Serverless Architecture | [Serverless API Example](./serverless-api-demo) | Cost-efficient, event-driven architecture using AWS Lambda | AWS Lambda, API Gateway, Terraform |
 
 ---
