@@ -34,11 +34,11 @@ All examples are:
 
 ## Core Skills Demonstrated
 
-- **CI/CD Pipeline Automation** – Streamlined build, test, and deploy workflows using GitHub Actions and Jenkins.  
-- **Containerization** – Efficient environment setup using Docker and Kubernetes.  
-- **Infrastructure as Code (IaC)** – Scalable cloud deployments managed through Terraform and AWS.  
-- **Monitoring & Logging** – Implemented Prometheus, Grafana, and ELK Stack configurations.  
-- **Serverless Solutions** – Deployed lightweight, cost-effective architectures on AWS.  
+- **CI/CD Pipeline Automation**: Streamlined build, test, and deploy workflows using GitHub Actions and Jenkins.  
+- **Containerization**: Efficient environment setup using Docker and Kubernetes.  
+- **Infrastructure as Code (IaC)**: Scalable cloud deployments managed through Terraform and AWS.  
+- **Monitoring & Logging**: Implemented Prometheus, Grafana, and ELK Stack configurations.  
+- **Serverless Solutions**: Deployed lightweight, cost-effective architectures on AWS.  
 - **We will keep updating this repositories as we find time**
 
 ---
