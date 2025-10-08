@@ -67,7 +67,7 @@ Reflect a professional and scalable DevOps mindset applicable to businesses of a
 
 ## 💼 About Devfero
 
-We are a team of DevOps enthusiasts, building a business focused on delivering automation-driven solutions that improve deployment efficiency, reliability, and scalability for clients.
+We are a team of development and DevOps enthusiasts, building a business focused on delivering automation-driven solutions that improve deployment efficiency, reliability, and scalability for clients.
 
 We are a passionate team of developers and designers crafting exceptional digital experiences that drive growth and innovation for businesses worldwide.
 
@@ -75,6 +75,58 @@ Each project here is part of our mission to bridge business understanding with t
 
 These implementations are not exhaustive and do not represent all the tools we work with*. We work on a wide range of tooling and provide solutions to our clients. 
 
+
+## Tools we work with (not an exhaustive list) 🚀
+### Cloud Providers
+- AWS
+- GCP
+- Azure
+- and more, reach out to us if you need help with anything else.
+
+### Infrastructure as Code
+- Terraform
+- Cloud Formation
+- GCP Deployment Manager
+- Azure Resource Manager
+
+### Containerization
+- Docker
+- Docker Compose
+- Rocket
+
+### Scripting
+- Bash
+- Python
+- NodeJS
+- We don't shy away from the rest. The above are just our recommended scripting suits.
+
+### Service Orchestration
+- Kubernetes and it's cloud flavors (EKS, GKE, AKS)
+- Docker Swarm
+- Please reach out with your use cases for other tools like OpenShift.
+
+### Configuration Management
+- Ansible
+- Please reach out to find more about others like Chef and Puppet.
+
+### Monitoring and Alerting
+- Grafana
+- Prometheus
+- Loki
+- Fluentd
+- ELK stack
+- Alert Manager
+- Datadog
+- New Relic
+- Please reach out to find out any other tools you prefer or use currently.
+
+### CI/CD tools
+- Github Actions
+- Gitlab Pipelines
+- Bitbucket Pipelines
+- Azure DevOps
+- Jenkins
+- ... and more.
 
 ## 📫 Contact
 
